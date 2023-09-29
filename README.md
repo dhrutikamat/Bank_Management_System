@@ -3,7 +3,7 @@ This is our second year engineering project for amplifying our Database Manageme
 Our Bank Management System is a web-based application designed to help manage banking operations efficiently. It is developed using various technologies like PHP, MySQL database for data storage, JavaScript for client-side functionality, HTML and CSS for the user interface, Bootstrap for responsive design, and additional features like Modals and Ajax for a smoother user experience. The primary purpose of this system is to manage banking operations, and it is designed to be user-friendly and easy to navigate.
 Let's break down the key components and roles within the system:
 1. Admin: The admin is a user type with higher privileges. They have control over the entire system and can perform tasks such as managing user accounts, monitoring transactions, setting system parameters, and generating reports.
-2. 2.UserTypes:
+2. UserTypes:
 User Type 1 (Cashier): Cashiers are responsible for day-to-day banking operations. They can perform tasks like processing customer transactions (deposits, withdrawals, transfers), updating account balances, and generating receipts.
 User Type 2 (Member): Members are typically bank customers. They use the system to access their accounts, check balances, view transaction history, and perform various self-service banking operations.
 
