@@ -1,4 +1,5 @@
 # Bank_Management_System
+![Screenshot (40)](https://github.com/dhrutikamat/Bank_Management_System/assets/130557723/3fe64423-fce0-4069-9c4a-70d388833470)
 This is our second year engineering project for amplifying our Database Management System skills.
 Our Bank Management System is a web-based application designed to help manage banking operations efficiently. It is developed using various technologies like PHP, MySQL database for data storage, JavaScript for client-side functionality, HTML and CSS for the user interface, Bootstrap for responsive design, and additional features like Modals and Ajax for a smoother user experience. The primary purpose of this system is to manage banking operations, and it is designed to be user-friendly and easy to navigate.
 Let's break down the key components and roles within the system:
@@ -18,4 +19,3 @@ Let's say you're a member of this bank management system. Here's how you might i
 
 Meanwhile, the admin (User Type 1) has the capability to oversee all these transactions, manage user accounts, and ensure the smooth functioning of the system.
 Overall, our Bank Management System is a prototype and it aims to provide a user-friendly and efficient platform for both bank employees (cashiers) and customers (members) to carry out their banking activities securely and conveniently.
-![Screenshot (40)](https://github.com/dhrutikamat/Bank_Management_System/assets/130557723/3fe64423-fce0-4069-9c4a-70d388833470)
